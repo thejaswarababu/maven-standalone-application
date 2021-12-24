@@ -44,7 +44,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>Mithun Technologies Snapshot Nexus theja Repository </name>
 	      <url>http://18.222.174.49:8089/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	    
